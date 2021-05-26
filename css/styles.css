@@ -1,11 +1,8 @@
-h2.intro {
+.intro {
   color: red;
   text-align: center;
 }
-p.intro {
-  color:royalblue;
-  text-align: right;
-}
-img.intro {
-  border-radius: 50%;
+
+body {
+  background-color: black;
 }
